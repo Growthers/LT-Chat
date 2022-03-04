@@ -6,6 +6,9 @@ authors = ["Growthers"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+python-dotenv = "^0.19.2"
+websocket-client = "^1.3.1"
+"discord.py" = "^1.7.3"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
