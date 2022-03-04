@@ -41,7 +41,7 @@ class LT_Chat(commands.Bot):
                 print(e)
 
 
-bot = LT_Chat(prefix="c!")
+bot = LT_Chat(prefix="chat!")
 
 if __name__ == "__main__":
     try:
